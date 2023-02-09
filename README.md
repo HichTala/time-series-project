@@ -1,1 +1,1 @@
-# time_series_project
+# Time Series school project
